@@ -3,7 +3,7 @@ import React from "react"
 function Footer() {
   return (
     <footer>
-      <p>Thank you for your time.</p>
+      <p>Last Updated 03/25</p>
     </footer>
   )
 }

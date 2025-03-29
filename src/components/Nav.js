@@ -9,7 +9,7 @@ function Nav({ toggleSection }) {
         </li>
         <li>
           <a
-            href="https://soundcloud.com/beatsbyzayy?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+            href="https://www.linkedin.com/in/isaiah-mitchel707/"
             target="_blank"
             rel="noopener noreferrer"
           >
